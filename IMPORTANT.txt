@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+> bokeh: interactive visualization
+> folium: interactive maps
+=======
+> bokeh: interactive visualization
+> folium: interactive maps
+>>>>>>> connect commit
